@@ -1,0 +1,15 @@
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\multiDelegates\multiDelegates\obj\Debug\net6.0\multiDelegates.csproj.AssemblyReference.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\multiDelegates\multiDelegates\obj\Debug\net6.0\multiDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\multiDelegates\multiDelegates\obj\Debug\net6.0\multiDelegates.AssemblyInfoInputs.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\multiDelegates\multiDelegates\obj\Debug\net6.0\multiDelegates.AssemblyInfo.cs
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\multiDelegates\multiDelegates\obj\Debug\net6.0\multiDelegates.csproj.CoreCompileInputs.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\multiDelegates\multiDelegates\bin\Debug\net6.0\multiDelegates.exe
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\multiDelegates\multiDelegates\bin\Debug\net6.0\multiDelegates.deps.json
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\multiDelegates\multiDelegates\bin\Debug\net6.0\multiDelegates.runtimeconfig.json
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\multiDelegates\multiDelegates\bin\Debug\net6.0\multiDelegates.dll
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\multiDelegates\multiDelegates\bin\Debug\net6.0\multiDelegates.pdb
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\multiDelegates\multiDelegates\obj\Debug\net6.0\multiDelegates.dll
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\multiDelegates\multiDelegates\obj\Debug\net6.0\refint\multiDelegates.dll
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\multiDelegates\multiDelegates\obj\Debug\net6.0\multiDelegates.pdb
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\multiDelegates\multiDelegates\obj\Debug\net6.0\multiDelegates.genruntimeconfig.cache
+C:\Users\wesen\OneDrive\NMC - SCHOOLING\NMC_CLASSES\CIT195AppDev\week6\multiDelegates\multiDelegates\obj\Debug\net6.0\ref\multiDelegates.dll
